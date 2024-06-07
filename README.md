@@ -1,7 +1,5 @@
 # ¡Hola! 👋
 
-## Sobre mí
-
 ¡Bienvenid@ a mi perfil de GitHub! Mi pasión por la **Inteligencia Artificial** y el **Análisis de Datos** ha guiado mi trayectoria profesional. Aunque mi formación inicial es en **Diseño Gráfico**, he ampliado mis habilidades y conocimientos con una formación en:
 
 - 🌐 **Desarrollador Cloud de Azure**
